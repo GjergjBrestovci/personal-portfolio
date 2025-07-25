@@ -1,5 +1,3 @@
-# Tim Gatzke-Inspired Developer Portfolio
-
 A clean, minimalist developer portfolio website built with Next.js 14, Tailwind CSS, and Framer Motion, following Tim Gatzke's design philosophy of elegant simplicity and professional sophistication.
 
 ## ✨ Design Features

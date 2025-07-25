@@ -18,7 +18,7 @@ const Hero = () => {
             transition={{ duration: 0.8, delay: 0.2 }}
           >
             Hi, I&apos;m{' '}
-            <span className="text-accent">Your Name</span>
+            <span className="text-accent">Gjergj Brestovci</span>
           </motion.h1>
           
           <motion.p 
