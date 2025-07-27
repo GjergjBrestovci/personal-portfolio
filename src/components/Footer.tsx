@@ -46,7 +46,7 @@ const Footer = () => {
           className="text-center"
         >
           <div className="mb-8">
-            <h3 className="text-2xl font-bold mb-4">Your Name</h3>
+            <h3 className="text-2xl font-bold mb-4">Gjergj Brestovci</h3>
             <p className="text-muted max-w-md mx-auto leading-relaxed">
               Creating meaningful digital experiences through clean design and thoughtful development.
             </p>
@@ -71,7 +71,7 @@ const Footer = () => {
 
           <div className="flex flex-col md:flex-row items-center justify-between pt-8 border-t border-border-light">
             <div className="text-muted text-sm mb-4 md:mb-0">
-              © {currentYear} Your Name. All rights reserved.
+              © {currentYear} Gjergj Brestovci. All rights reserved.
             </div>
             <div className="flex items-center space-x-6 text-sm text-muted">
               <a href="#about" className="hover:text-accent transition-colors">

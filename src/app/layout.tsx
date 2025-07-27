@@ -8,26 +8,26 @@ const inter = Inter({
 });
 
 export const metadata: Metadata = {
-  title: "Your Name - Developer Portfolio",
+  title: "Gjergj Brestovci - Developer Portfolio",
   description: "Clean, minimalist developer portfolio showcasing technical skills, education, and professional journey with a focus on continuous learning and growth.",
   keywords: ["developer", "portfolio", "web development", "software engineer", "programmer", "react", "nextjs", "typescript"],
-  authors: [{ name: "Your Name" }],
-  creator: "Your Name",
-  publisher: "Your Name",
+  authors: [{ name: "Gjergj Brestovci" }],
+  creator: "Gjergj Brestovci",
+  publisher: "Gjergj Brestovci",
   robots: "index, follow",
   openGraph: {
     type: "website",
     locale: "en_US",
     url: "https://yourwebsite.com",
-    siteName: "Your Name - Developer Portfolio",
-    title: "Your Name - Developer Portfolio",
+    siteName: "Gjergj Brestovci - Developer Portfolio",
+    title: "Gjergj Brestovci - Developer Portfolio",
     description: "Clean, minimalist developer portfolio showcasing technical skills and professional journey.",
     images: [
       {
         url: "/og-image.png",
         width: 1200,
         height: 630,
-        alt: "Your Name - Developer Portfolio",
+        alt: "Gjergj Brestovci - Developer Portfolio",
       },
     ],
   },
@@ -35,7 +35,7 @@ export const metadata: Metadata = {
     card: "summary_large_image",
     site: "@yourusername",
     creator: "@yourusername",
-    title: "Your Name - Developer Portfolio",
+    title: "Gjergj Brestovci - Developer Portfolio",
     description: "Clean, minimalist developer portfolio showcasing technical skills and professional journey.",
     images: ["/og-image.png"],
   },
