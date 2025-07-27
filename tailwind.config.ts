@@ -18,9 +18,9 @@ export default {
         muted: '#a3a3a3',
         'text-light': '#737373',
         accent: {
-          DEFAULT: '#00d4ff',
-          hover: '#33e0ff',
-          light: '#001a20',
+          DEFAULT: '#FF6B6B',
+          hover: '#FF8E8E',
+          light: '#2a1a1a',
         },
         border: '#404040',
         'border-light': '#2a2a2a',

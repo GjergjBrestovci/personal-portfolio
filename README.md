@@ -11,18 +11,19 @@ A clean, minimalist developer portfolio website built with Next.js 14, Tailwind 
 ## 🚀 Tech Stack
 
 - **Framework**: Next.js 14 with App Router
-- **Styling**: Tailwind CSS v4
+- **Styling**: Tailwind CSS v3
 - **Animations**: Framer Motion
 - **TypeScript**: Full type safety
-- **Font**: Inter (Google Fonts)
+- **Font**: Inter (optimized with Next.js)
 
 ## 🎨 Design System
 
 ### Color Palette
-- **Primary**: Clean whites and light grays
-- **Text**: Dark gray (#171717) for excellent readability
-- **Accent**: Subtle blue (#2563eb) for interactive elements
-- **Contrast**: High contrast for accessibility with softened edges
+- **Background**: Deep black (#0a0a0a) for modern elegance
+- **Text**: Light gray (#e5e5e5) for excellent readability
+- **Accent**: Vibrant coral (#FF6B6B) for interactive elements and highlights
+- **Subtle backgrounds**: Dark gray (#1a1a1a) for cards and sections
+- **Contrast**: High contrast for accessibility with warm coral accents
 
 ### Typography
 - **Font**: Inter - Modern, clean sans-serif

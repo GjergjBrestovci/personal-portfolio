@@ -26,7 +26,7 @@ body {
 
 /* Focus styles for accessibility */
 :focus-visible {
-  outline: 2px solid #00d4ff;
+  outline: 2px solid #FF6B6B;
   outline-offset: 2px;
   border-radius: 4px;
 }
@@ -38,7 +38,7 @@ a, button, input, textarea {
 
 /* Selection styling */
 ::selection {
-  background: #00d4ff;
+  background: #FF6B6B;
   color: #0a0a0a;
 }
 
@@ -68,12 +68,12 @@ h4 {
 
 /* Links with subtle styling */
 a {
-  color: #00d4ff;
+  color: #FF6B6B;
   text-decoration: none;
 }
 
 a:hover {
-  color: #33e0ff;
+  color: #FF8E8E;
 }
 
 /* Buttons with clean design */
@@ -92,16 +92,16 @@ a:hover {
 }
 
 .btn-primary {
-  background: #00d4ff;
+  background: #FF6B6B;
   color: #0a0a0a;
-  border-color: #00d4ff;
+  border-color: #FF6B6B;
 }
 
 .btn-primary:hover {
-  background: #33e0ff;
-  border-color: #33e0ff;
+  background: #FF8E8E;
+  border-color: #FF8E8E;
   transform: translateY(-1px);
-  box-shadow: 0 20px 25px -5px rgb(0 212 255 / 0.1), 0 10px 10px -5px rgb(0 212 255 / 0.04);
+  box-shadow: 0 20px 25px -5px rgb(255 107 107 / 0.1), 0 10px 10px -5px rgb(255 107 107 / 0.04);
 }
 
 .btn-secondary {
@@ -112,7 +112,7 @@ a:hover {
 
 .btn-secondary:hover {
   background: #1a1a1a;
-  border-color: #00d4ff;
+  border-color: #FF6B6B;
   transform: translateY(-1px);
 }
 
@@ -129,7 +129,7 @@ code {
 
 /* Gradient text utilities */
 .gradient-text {
-  background: linear-gradient(135deg, #00d4ff 0%, #33e0ff 100%);
+  background: linear-gradient(135deg, #FF6B6B 0%, #FF8E8E 100%);
   background-clip: text;
   -webkit-background-clip: text;
   -webkit-text-fill-color: transparent;
@@ -145,8 +145,8 @@ code {
 }
 
 .card-subtle:hover {
-  border-color: #00d4ff;
-  box-shadow: 0 20px 25px -5px rgb(0 212 255 / 0.1), 0 10px 10px -5px rgb(0 212 255 / 0.04);
+  border-color: #FF6B6B;
+  box-shadow: 0 20px 25px -5px rgb(255 107 107 / 0.1), 0 10px 10px -5px rgb(255 107 107 / 0.04);
   transform: translateY(-2px);
 }
 
