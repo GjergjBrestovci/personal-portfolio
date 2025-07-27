@@ -14,7 +14,7 @@ A clean, minimalist developer portfolio website built with Next.js 14, Tailwind 
 - **Styling**: Tailwind CSS v3
 - **Animations**: Framer Motion
 - **TypeScript**: Full type safety
-- **Font**: Inter (optimized with Next.js)
+- **Font**: Poppins (optimized with Next.js)
 
 ## 🎨 Design System
 
@@ -26,7 +26,7 @@ A clean, minimalist developer portfolio website built with Next.js 14, Tailwind 
 - **Contrast**: High contrast for accessibility with warm coral accents
 
 ### Typography
-- **Font**: Inter - Modern, clean sans-serif
+- **Font**: Poppins - Modern, geometric sans-serif with excellent readability
 - **Hierarchy**: Clear distinction between headings and body text
 - **Line Height**: Generous spacing for comfortable reading
 - **Weights**: Strategic use from 300 to 700
