@@ -9,6 +9,7 @@ const poppins = Poppins({
 });
 
 export const metadata: Metadata = {
+  metadataBase: new URL('https://yourwebsite.com'),
   title: "Gjergj Brestovci - Developer Portfolio",
   description: "Clean, minimalist developer portfolio showcasing technical skills, education, and professional journey with a focus on continuous learning and growth.",
   keywords: ["developer", "portfolio", "web development", "software engineer", "programmer", "react", "nextjs", "typescript"],
